@@ -1,4 +1,4 @@
-# Hi, my name is Brian K. Turner 👋
+# Hi, my name is Brian Turner 👋
 
 # About Me
 
