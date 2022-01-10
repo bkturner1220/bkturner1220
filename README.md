@@ -1,8 +1,18 @@
+
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.adityavsingh.com)
+[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-22%20September%202021-yellow.svg)](https://github.com/AVS1508/AVS1508.github.io/commit/master)
+
 # Hi, my name is Brian Turner 👋
 
 # About Me
 
-💻 I am a student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools.
+💻 Hello my name is Brian Turner.   I'm aspiring to be a major role in the future for major technical advances. I am a student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
+
+<p align="justify">This website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using ReactJS, Bootstrap, and CSS.</p>
+
+![Personal Résume Website](https://raw.githubusercontent.com/AVS1508/AVS1508.github.io/devAditya/website-view.webp)
 
 <br />
 
