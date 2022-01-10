@@ -4,7 +4,8 @@
 [![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
 
 
-# Hey there! 👋 &nbsp;
+## Hey there! &nbsp;My name is Brian Turner! 👋
+ 
 My name is Brian Turner!
 
 ### 👨🏻‍💻 &nbsp;About Me
