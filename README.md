@@ -6,11 +6,11 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 
-# Hi, my name is Brian Turner 👋
+# Hey there 👋 &nbsp;my name is Brian Turner
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 Hello my name is Brian Turner.   I'm aspiring to be a major role in the future for major technical advances. I am a student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
+💻 I'm aspiring to be a major role in the future for major technical advances. I am a student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
 
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
 
