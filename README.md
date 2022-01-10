@@ -3,10 +3,9 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.briankturner.me)
 [![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-
-# Hey there 👋 &nbsp;my name is Brian Turner
+# Hey there! 👋 &nbsp;
+My name is Brian Turner!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
