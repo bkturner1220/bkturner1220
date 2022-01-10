@@ -22,8 +22,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -41,10 +39,10 @@
 <br />
 <br />
 
-### 🤝🏻 &nbsp;Connect with me through Linkedin
+### 🤝🏻 &nbsp;Connect with me via Linkedin:
 
 <a href="in/brian-turner-1923b8177"><img src="https://img.shields.io/badge/-Brian%20K.%20Turner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-## 📫 How to reach me: ...
+## 📫 &nbsp;How to reach me via email:
 
 - Email: [bturner@texascdlprep.com](bturner@texascdlprep.com)
