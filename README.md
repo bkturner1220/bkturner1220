@@ -34,8 +34,6 @@ and creative when crafting effective
 websites and Android applications to
 propel companies towards competitive
 advantage and revenue growth.
-
-<br>
 <br>
 <br>
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
