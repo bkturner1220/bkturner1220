@@ -25,6 +25,7 @@ Store and also Google's Play Store. I am
 fascinated in development and continue
 to expand my known languages and skills
 in anything mobile/web developed.
+<br>
 Finally, I am a motivated business
 professional bringing 6 years of
 entrepreneurial experience. Results-driven
@@ -34,10 +35,12 @@ propel companies towards competitive
 advantage and revenue growth.
 
 <br>
+<br>
+<br>
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
 📄 &nbsp;Please have a look at my [Website](https://bkturner1220.github.io/Professional_Portfolio/) for more details about me. I'm open to feedback and suggestions!
 
-<br />
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
