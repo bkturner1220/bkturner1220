@@ -1,7 +1,7 @@
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
+<h1 align="center">[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://bkturner1220.github.io/Professional_Portfolio/)
-[![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
+[![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)</h1>
 
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Turner</h1>
