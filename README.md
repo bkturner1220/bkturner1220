@@ -1,7 +1,7 @@
 
-<h1 align="center">[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://bkturner1220.github.io/Professional_Portfolio/)
-[![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)</h1>
+[![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
 
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Turner</h1>
@@ -10,7 +10,9 @@ My name is Brian Turner!
 
 <br />
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 💻 I'm aspiring to be a major role in the future for major technical advances. I am a student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
 
