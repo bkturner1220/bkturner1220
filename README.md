@@ -16,7 +16,7 @@ My name is Brian Turner!
 
 I am aspiring to be a major role in the
 future for major technical advances. I am a
-student currently enrolled in SMU's FullStack Development Coding Boot Camp
+student currently enrolled in SMU's Full-Stack Development Coding Boot Camp
 specializing in traditional Full-Stack
 Development languages and tools. I have
 a wife with two children and currently
@@ -33,7 +33,7 @@ websites and Android applications to
 propel companies towards competitive
 advantage and revenue growth.
 
-
+<br>
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
 📄 &nbsp;Please have a look at my [Website](https://bkturner1220.github.io/Professional_Portfolio/) for more details about me. I'm open to feedback and suggestions!
 
