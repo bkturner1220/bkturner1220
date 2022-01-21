@@ -26,6 +26,7 @@ fascinated in development and continue
 to expand my known languages and skills
 in anything mobile/web developed.
 <br>
+<br>
 Finally, I am a motivated business
 professional bringing 6 years of
 entrepreneurial experience. Results-driven
