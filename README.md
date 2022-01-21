@@ -4,7 +4,7 @@
 [![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
 
 
-## Hey there! &nbsp;My name is Brian Turner! 👋
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Turner</h1>
  
 My name is Brian Turner!
 
