@@ -15,7 +15,7 @@
 
 # Welcome to my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sakilk130&style=flat-square&color=f9d303)
 
-<br>
+<br />
 
 ## 🤓 About Me &nbsp; 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
@@ -25,11 +25,7 @@
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
  for more details about me. I'm open to feedback and suggestions!
 
-
-<p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
- for more details about me. I'm open to feedback and suggestions!
-
-<br>
+<br />
 
 ## 🛠️ &nbsp;Tech Stack
 
