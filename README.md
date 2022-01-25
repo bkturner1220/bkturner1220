@@ -10,7 +10,6 @@
 <a href = "mailto: bturner@texascdlprep.com">[![Email Badge](https://img.shields.io/badge/Contact-Email-f95a03)] 
 
 ## [![](https://gitscores.herokuapp.com/badge?username=bkturner1220&label=Gitscore%20Profile%20Score&style=for-the-badge&color=yellow)](https://gitscores.herokuapp.com/)
-<br />
 
 
 # Welcome to my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sakilk130&style=flat-square&color=f9d303)
