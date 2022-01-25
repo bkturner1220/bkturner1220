@@ -25,7 +25,11 @@
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
  for more details about me. I'm open to feedback and suggestions!
 
-<br />
+
+<p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
+ for more details about me. I'm open to feedback and suggestions!
+
+<br>
 
 ## 🛠️ &nbsp;Tech Stack
 
