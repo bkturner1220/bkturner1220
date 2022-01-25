@@ -8,7 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1243f8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bkturner1220/)
 [![Website Badge](https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://bkturner1220.github.io/Professional_Portfolio/)
 <a href = "mailto: bturner@texascdlprep.com">[![Email Badge](https://img.shields.io/badge/Contact-Email-f95a03)] 
-
 ## [![](https://gitscores.herokuapp.com/badge?username=bkturner1220&label=Gitscore%20Profile%20Score&style=for-the-badge&color=yellow)](https://gitscores.herokuapp.com/)
 
 
