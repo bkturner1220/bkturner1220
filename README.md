@@ -15,7 +15,7 @@
 
 # Welcome to my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sakilk130&style=flat-square&color=f9d303)
 
-<br />
+<br>
 
 ## 🤓 About Me &nbsp; 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
