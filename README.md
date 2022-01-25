@@ -1,70 +1,82 @@
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://bkturner1220.github.io/Professional_Portfolio/)
-[![Author](https://img.shields.io/badge/Author-Brian%20K.%20Turner-blue.svg)](https://www.linkedin.com/in/brian-turner-1923b8177/)
 
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Brian Turner</h1>
- 
-My name is Brian Turner!
+## Hello, I'm [Brian Turner](https://github.com/bkturner1220)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+<br />
+
+[![Github Status](https://img.shields.io/badge/Github%20Status-Maintained-dark%2023d700.svg)](https://github.com/bkturner1220)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1243f8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bkturner1220/)
+[![Website Badge](https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://bkturner1220.github.io/Professional_Portfolio/)
+<a href = "mailto: bturner@texascdlprep.com">[![Email Badge](https://img.shields.io/badge/Contact-Email-f95a03)] 
+
+## [![](https://gitscores.herokuapp.com/badge?username=bkturner1220&label=Gitscore%20Profile%20Score&style=for-the-badge&color=yellow)](https://gitscores.herokuapp.com/)
+<br />
+
+
+# Welcome to my Github! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sakilk130&style=flat-square&color=f9d303)
 
 <br />
 
-## 👨🏻‍💻 About Me:
-
+## 🤓 About Me &nbsp; 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-I am aspiring to be a major role in the
-future for major technical advances. I am a
-student currently enrolled in SMU's Full-Stack Development Coding Boot Camp
-specializing in traditional Full-Stack
-Development languages and tools. I have
-a wife with two children and currently
-have a mobile application on Apple's App
-Store and also Google's Play Store. I am
-fascinated in development and continue
-to expand my known languages and skills
-in anything mobile/web developed.
-<br>
-<br>
-Finally, I am a motivated business
-professional bringing 6 years of
-entrepreneurial experience. Results-driven
-and creative when crafting effective
-websites and Android applications to
-propel companies towards competitive
-advantage and revenue growth.
-<br>
-<br>
+ I'm aspiring to be a major role in the future for major technical advances. I am a 🎓student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
+
 <p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
-📄 &nbsp;Please have a look at my [Website](https://bkturner1220.github.io/Professional_Portfolio/) for more details about me. I'm open to feedback and suggestions!
+ for more details about me. I'm open to feedback and suggestions!
+
+
+<p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
+ for more details about me. I'm open to feedback and suggestions!
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="Express.js" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Linux" width="26px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" /></code>
+<code><img alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<br />
 
+<br />
 
-### 🤝🏻 &nbsp;Connect with me via Linkedin:
+## Projects and Dev Stuffs:
 
-<a href="in/brian-turner-1923b8177"><img src="https://img.shields.io/badge/-Brian%20K.%20Turner-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-## 📫 &nbsp;How to reach me via email:
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilk130&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+</details>
 
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakilk130&hide_border=true&theme=radical" />
+</details>
+<details>
+  <summary><b>📊 Weekly development breakdown</b></summary>
+
+  <br />
+  <img height="320em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical&hide_border=true">
+</details>
+
+  <br />
+
+## 📥 &nbsp;Contact me via email
 - Email: [bturner@texascdlprep.com](bturner@texascdlprep.com)
+## 🤝🏻 &nbsp;Check out my resume
+<a href = "./bkturner_resume.pdf">[![Email Badge](https://img.shields.io/badge/Brian%20Turner-Resume-ff69b4)]
