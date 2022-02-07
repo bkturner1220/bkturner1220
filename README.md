@@ -6,7 +6,7 @@
 
 [![Github Status](https://img.shields.io/badge/Github%20Status-Maintained-dark%2023d700.svg)](https://github.com/bkturner1220)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1243f8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bkturner1220/)
-[![Website Badge](https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://bkturner1220.github.io/Professional_Portfolio/)
+[![Website Badge](https://img.shields.io/badge/Website-blueviolet?style=flat-square&logo=google-chrome&logoColor=white)](https://bkturner1220.github.io/React_Portfolio/)
 <a href = "mailto: bturner@texascdlprep.com">[![Email Badge](https://img.shields.io/badge/Contact-Email-f95a03)] 
 
 ## [![](https://gitscores.herokuapp.com/badge?username=bkturner1220&label=Gitscore%20Profile%20Score&style=for-the-badge&color=yellow)](https://gitscores.herokuapp.com/)
@@ -22,10 +22,10 @@
 
  I'm aspiring to be a major role in the future for major technical advances. I am a 🎓student currently enrolled in SMU's Full-Stack Development Coding Boot Camp specializing in traditional Full-Stack Development languages and tools. I have a wife with two children and currently have a mobile application on Apple's App Store and also Google's Play Store.  My app is based on a study guide to obtain your Commercial Driver's License in the state of Texas.  I am self taught Java/Swift mobile development and continue to expand my known languages and skills in anything mobile/web developed and will continue to do so until the end of time.  I love computers and would have computers love me just as much!
 
-<p align="justify">My responsive website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Bootstrap, and CSS.</p>
- for more details about me. I'm open to feedback and suggestions!
+<p align="justify">My responsive react app serves as an online résumé with résumé included this displays my web presence, about me, work experience, education, projects, and contact information. It was created using React, MUI, Motion Framer, Photoshop and After Effects.  Link located under website badge at the top of my Github page. For more details about me. I'm open to feedback and suggestions!</p>
 
-<br />
+ 
+
 
 ## 🛠️ &nbsp;Tech Stack
 
